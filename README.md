@@ -13,6 +13,9 @@ In my bag: Oracle 6-19 (pl/sql developer, simple dba, DataBase Architect, SQL An
 
 REST, MQ, HTML, YAML, and other current basic technologies. Should we talk about them?
 
+## location
+
+I am thinking of going to Israel. It's good country?
 <!--
 **xvlady/xvlady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
